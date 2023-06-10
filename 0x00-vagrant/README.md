@@ -1,1 +1,12 @@
-Vagraant project is about learnng how to code using local computer with VMs and vagrant.
+# Project Name
+
+Vagrant - Introduction to local coding
+
+## Features
+
+- Setting up a VM
+- Setting up Vargant
+- Git commands
+
+## Installation
+VM, Vargant, Git..
